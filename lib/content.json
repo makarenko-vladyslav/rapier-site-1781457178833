@@ -1,0 +1,455 @@
+{
+  "defaultLocale": "uk",
+  "locales": {
+    "uk": {
+      "nav": {
+        "services": "Послуги",
+        "calculator": "Вартість",
+        "about": "Про нас",
+        "reviews": "Відгуки",
+        "faq": "FAQ",
+        "contact": "Контакти"
+      },
+      "hero": {
+        "badge": "Гарантія якості",
+        "title": "Преміальний клінінг у Києві зі страхуванням майна до 50 000 грн.",
+        "subtitle": "Бутіковий підхід до прибирання з німецьким обладнанням Karcher та еко-засобами KIEHL. Ідеальна чистота без компромісів.",
+        "ctaPrimary": "Розрахувати вартість",
+        "ctaSecondary": "Наші послуги",
+        "cardTitle": "Фіксована ціна",
+        "cardValue": "від 950 грн",
+        "cardDesc": "Жодних прихованих доплат"
+      },
+      "socialProof": {
+        "stats": [
+          { "value": "50k ₴", "label": "Майнове страхування" },
+          { "value": "60 хв", "label": "Прибуття в центрі" },
+          { "value": "65", "label": "Пунктів чек-листа" },
+          { "value": "4.9/5", "label": "Рейтинг клієнтів" }
+        ]
+      },
+      "services": {
+        "badge": "Наші послуги",
+        "title": "Комплексні рішення для вашого комфорту",
+        "subtitle": "Ми використовуємо лише сертифіковану хімію, безпечну для дітей та тварин.",
+        "items": [
+          {
+            "id": "general",
+            "title": "Генеральне прибирання",
+            "desc": "Глибоке очищення всіх поверхонь, важкодоступних місць та дезінфекція санвузлів.",
+            "icon": "sparkle"
+          },
+          {
+            "id": "post-repair",
+            "title": "Після ремонту",
+            "desc": "Видалення будівельного пилу, залишків фарби та цементу спеціальними пилососами.",
+            "icon": "brush"
+          },
+          {
+            "id": "furniture",
+            "title": "Хімчистка меблів",
+            "desc": "Глибока екстракційна чистка диванів та матраців обладнанням Karcher Puzzi.",
+            "icon": "sofa"
+          },
+          {
+            "id": "windows",
+            "title": "Миття вікон",
+            "desc": "Миття вікон, фасадів та вітрин без розводів з використанням професійних стяжок.",
+            "icon": "window"
+          }
+        ]
+      },
+      "calculator": {
+        "badge": "Калькулятор",
+        "title": "Розрахуйте точну вартість за 30 секунд",
+        "subtitle": "Оберіть площу та тип прибирання. Ціна фіксується і не змінюється.",
+        "areaLabel": "Площа приміщення (м²)",
+        "typeLabel": "Тип прибирання",
+        "types": {
+          "regular": "Підтримуюче",
+          "general": "Генеральне",
+          "repair": "Після ремонту"
+        },
+        "totalLabel": "Орієнтовна вартість:",
+        "cta": "Забронювати дату"
+      },
+      "trust": {
+        "badge": "Гарантії",
+        "title": "Безпека вашого майна — наш пріоритет",
+        "items": [
+          {
+            "title": "Страхування до 50,000 грн",
+            "desc": "Ми несемо повну матеріальну відповідальність за збереження ваших речей під час роботи."
+          },
+          {
+            "title": "Еко-хімія KIEHL (Німеччина)",
+            "desc": "Використовуємо гіпоалергенні засоби, абсолютно безпечні для немовлят та домашніх улюбленців."
+          },
+          {
+            "title": "Служба безпеки",
+            "desc": "Кожен клінер проходить ретельну перевірку службою безпеки та багатоетапне навчання."
+          }
+        ]
+      },
+      "whyUs": {
+        "badge": "Переваги",
+        "title": "Чому обирають Кришталь Клінінг",
+        "items": [
+          {
+            "title": "Чек-лист на 65 пунктів",
+            "desc": "Контроль якості за суворим регламентом. Ми не пропустимо жодної пилинки."
+          },
+          {
+            "title": "Прибуття за 60 хвилин",
+            "desc": "Локальна команда на Подолі забезпечує швидке реагування в центральних районах."
+          },
+          {
+            "title": "Бронювання в месенджері",
+            "desc": "Цінуємо ваш час. Оформлення замовлення через Telegram без зайвих дзвінків."
+          },
+          {
+            "title": "Професійна техніка",
+            "desc": "Працюємо виключно з промисловими пароочисниками та пилососами Karcher."
+          }
+        ]
+      },
+      "testimonials": {
+        "badge": "Відгуки",
+        "title": "Що кажуть наші клієнти",
+        "items": [
+          {
+            "name": "Олена Коваленко",
+            "role": "ЖК Комфорт Таун",
+            "text": "Найкращий клінінг, який я замовляла. Жодного запаху хімії, лише свіжість. Відмили духовку так, що вона виглядає як нова. Дуже ввічливий персонал."
+          },
+          {
+            "name": "Максим Ткаченко",
+            "role": "IT-підприємець",
+            "text": "Зручно, що можна все вирішити в Телеграмі. Приїхали вчасно, працювали тихо, поки я був на зумах. Якість генерального прибирання на висоті."
+          },
+          {
+            "name": "Ірина Мельник",
+            "role": "ЖК Французький квартал",
+            "text": "Маю двох котів, тому еко-засоби були принциповими. Хімчистка дивану перевершила очікування — зникли всі плями і запах. Рекомендую!"
+          },
+          {
+            "name": "Андрій Бойко",
+            "role": "Власник шоуруму",
+            "text": "Замовляємо підтримуюче прибирання для нашого шоуруму на Подолі. Завжди ідеально чисті вітрини та підлога. Надійний партнер."
+          }
+        ]
+      },
+      "beforeAfter": {
+        "badge": "Результат",
+        "title": "Різниця, яку видно одразу",
+        "before": "До",
+        "after": "Після"
+      },
+      "gallery": {
+        "badge": "Портфоліо",
+        "title": "Наші роботи",
+        "items": [
+          { "url": "https://picsum.photos/seed/clean-living/800/600", "alt": "Прибирання вітальні" },
+          { "url": "https://picsum.photos/seed/clean-kitchen/800/600", "alt": "Миття кухні" },
+          { "url": "https://picsum.photos/seed/clean-bathroom/800/600", "alt": "Дезінфекція ванної" },
+          { "url": "https://picsum.photos/seed/clean-window/800/600", "alt": "Миття вікон" },
+          { "url": "https://picsum.photos/seed/clean-sofa/800/600", "alt": "Хімчистка дивану" },
+          { "url": "https://picsum.photos/seed/clean-office/800/600", "alt": "Прибирання офісу" }
+        ]
+      },
+      "video": {
+        "badge": "Процес",
+        "title": "Як ми працюємо",
+        "posterUrl": "https://picsum.photos/seed/cleaning-process/1200/600"
+      },
+      "team": {
+        "badge": "Команда",
+        "title": "Професіонали своєї справи",
+        "items": [
+          { "name": "Анна", "role": "Старший клінер", "imageUrl": "https://picsum.photos/seed/cleaner-anna/400/500" },
+          { "name": "Вікторія", "role": "Спеціаліст з хімчистки", "imageUrl": "https://picsum.photos/seed/cleaner-vika/400/500" },
+          { "name": "Дмитро", "role": "Менеджер з якості", "imageUrl": "https://picsum.photos/seed/manager-dmytro/400/500" }
+        ]
+      },
+      "process": {
+        "badge": "Етапи",
+        "title": "Як замовити прибирання",
+        "items": [
+          { "step": "01", "title": "Заявка", "desc": "Залиште заявку на сайті або напишіть нам у Telegram. Ми розрахуємо точну вартість." },
+          { "step": "02", "title": "Підтвердження", "desc": "Узгоджуємо зручний для вас час та деталі замовлення." },
+          { "step": "03", "title": "Прибирання", "desc": "Команда приїжджає з усім необхідним обладнанням та проводить прибирання за чек-листом." },
+          { "step": "04", "title": "Прийом роботи", "desc": "Ви перевіряєте результат. Оплата здійснюється лише після вашого підтвердження якості." }
+        ]
+      },
+      "ctaBanner": {
+        "title": "Готові до ідеальної чистоти?",
+        "subtitle": "Забронюйте прибирання сьогодні та отримайте знижку 10% на перше замовлення.",
+        "cta": "Забронювати зі знижкою"
+      },
+      "coverage": {
+        "badge": "Локація",
+        "title": "Працюємо по всьому Києву",
+        "subtitle": "Особливо швидке реагування (до 60 хв) у центральних районах та на Подолі.",
+        "districts": ["Поділ", "Печерськ", "Оболонь", "Голосієво", "Дарниця", "Дніпровський"]
+      },
+      "faq": {
+        "badge": "Питання",
+        "title": "Поширені запитання",
+        "items": [
+          { "q": "Чи потрібно мені надавати миючі засоби або інвентар?", "a": "Ні, наша команда приїжджає з усім необхідним: від професійних пилососів Karcher до сертифікованої еко-хімії KIEHL та мікрофібр." },
+          { "q": "Чи безпечні ваші засоби для дітей та тварин?", "a": "Абсолютно. Ми використовуємо гіпоалергенну лінійку засобів, яка не має різкого запаху та повністю безпечна для всіх мешканців дому." },
+          { "q": "Як розраховується вартість?", "a": "Вартість залежить від площі приміщення та типу прибирання. Ви можете скористатися калькулятором на сайті. Ціна фіксується до початку робіт." },
+          { "q": "Що покриває ваше страхування?", "a": "Ми маємо страховий фонд до 50,000 грн, який покриває будь-які випадкові пошкодження майна під час прибирання з вини нашого працівника." },
+          { "q": "Чи можу я залишити ключі і піти у справах?", "a": "Так, багато наших клієнтів так і роблять. Всі наші працівники проходять перевірку службою безпеки. Ми гарантуємо збереження ваших речей." },
+          { "q": "Скільки часу займає генеральне прибирання?", "a": "Залежить від площі та ступеня забруднення. В середньому квартира 50 м² займає 4-6 годин роботи команди з 2-х людей." },
+          { "q": "Як швидко ви можете приїхати?", "a": "У центральних районах Києва (зокрема на Подолі) ми можемо бути на об'єкті протягом 60 хвилин після підтвердження заявки." },
+          { "q": "Чи миєте ви вікна взимку?", "a": "Миття вікон ззовні проводиться при температурі не нижче -5°C. Всередині миємо за будь-якої погоди." },
+          { "q": "Як можна оплатити послуги?", "a": "Ви можете оплатити готівкою, переказом на картку або за безготівковим розрахунком (для юридичних осіб) після прийому роботи." },
+          { "q": "Що входить у чек-лист на 65 пунктів?", "a": "Чек-лист включає детальний перелік робіт для кожної зони: від знепилювання карнизів до дезінфекції зливів у ванній. Ми надаємо його вам для перевірки." }
+        ]
+      },
+      "contact": {
+        "badge": "Контакти",
+        "title": "Зв'яжіться з нами",
+        "nameLabel": "Ваше ім'я",
+        "phoneLabel": "Телефон",
+        "messageLabel": "Коментар (необов'язково)",
+        "submit": "Надіслати заявку",
+        "success": "Дякуємо! Ми зв'яжемося з вами найближчим часом.",
+        "address": "вул. Сагайдачного, 12, Київ",
+        "phone": "+380 67 123 45 67",
+        "email": "ishop.inform@gmail.com",
+        "hours": "Пн-Нд: 08:00 - 20:00"
+      },
+      "footer": {
+        "description": "Преміальний клінінг у Києві. Високі стандарти чистоти, екологічність та безпека вашого дому.",
+        "rights": "Всі права захищено."
+      }
+    },
+    "en": {
+      "nav": {
+        "services": "Services",
+        "calculator": "Pricing",
+        "about": "About",
+        "reviews": "Reviews",
+        "faq": "FAQ",
+        "contact": "Contact"
+      },
+      "hero": {
+        "badge": "Quality Guarantee",
+        "title": "Premium cleaning in Kyiv with property insurance up to 50,000 UAH.",
+        "subtitle": "Boutique cleaning approach with German Karcher equipment and KIEHL eco-products. Perfect cleanliness without compromises.",
+        "ctaPrimary": "Calculate Price",
+        "ctaSecondary": "Our Services",
+        "cardTitle": "Fixed Price",
+        "cardValue": "from 950 UAH",
+        "cardDesc": "No hidden fees"
+      },
+      "socialProof": {
+        "stats": [
+          { "value": "50k ₴", "label": "Property Insurance" },
+          { "value": "60 min", "label": "Arrival in Center" },
+          { "value": "65", "label": "Checklist Items" },
+          { "value": "4.9/5", "label": "Client Rating" }
+        ]
+      },
+      "services": {
+        "badge": "Our Services",
+        "title": "Comprehensive solutions for your comfort",
+        "subtitle": "We use only certified chemicals, safe for children and pets.",
+        "items": [
+          {
+            "id": "general",
+            "title": "Deep Cleaning",
+            "desc": "Deep cleaning of all surfaces, hard-to-reach places, and bathroom disinfection.",
+            "icon": "sparkle"
+          },
+          {
+            "id": "post-repair",
+            "title": "Post-Repair",
+            "desc": "Removal of construction dust, paint, and cement residues with special vacuums.",
+            "icon": "brush"
+          },
+          {
+            "id": "furniture",
+            "title": "Furniture Dry Cleaning",
+            "desc": "Deep extraction cleaning of sofas and mattresses with Karcher Puzzi equipment.",
+            "icon": "sofa"
+          },
+          {
+            "id": "windows",
+            "title": "Window Washing",
+            "desc": "Streak-free washing of windows, facades, and showcases using professional squeegees.",
+            "icon": "window"
+          }
+        ]
+      },
+      "calculator": {
+        "badge": "Calculator",
+        "title": "Calculate exact price in 30 seconds",
+        "subtitle": "Select area and cleaning type. The price is fixed and will not change.",
+        "areaLabel": "Area (m²)",
+        "typeLabel": "Cleaning Type",
+        "types": {
+          "regular": "Regular",
+          "general": "Deep",
+          "repair": "Post-Repair"
+        },
+        "totalLabel": "Estimated Cost:",
+        "cta": "Book Date"
+      },
+      "trust": {
+        "badge": "Guarantees",
+        "title": "Your property safety is our priority",
+        "items": [
+          {
+            "title": "Insurance up to 50,000 UAH",
+            "desc": "We bear full financial responsibility for the safety of your belongings during work."
+          },
+          {
+            "title": "KIEHL Eco-Chemicals (Germany)",
+            "desc": "We use hypoallergenic products, absolutely safe for babies and pets."
+          },
+          {
+            "title": "Security Service",
+            "desc": "Every cleaner undergoes a thorough background check and multi-stage training."
+          }
+        ]
+      },
+      "whyUs": {
+        "badge": "Advantages",
+        "title": "Why choose Crystal Cleaning",
+        "items": [
+          {
+            "title": "65-Point Checklist",
+            "desc": "Quality control according to strict regulations. We won't miss a speck of dust."
+          },
+          {
+            "title": "Arrival in 60 minutes",
+            "desc": "Local team in Podil ensures quick response in central districts."
+          },
+          {
+            "title": "Messenger Booking",
+            "desc": "We value your time. Order via Telegram without unnecessary calls."
+          },
+          {
+            "title": "Professional Equipment",
+            "desc": "We work exclusively with industrial steam cleaners and Karcher vacuums."
+          }
+        ]
+      },
+      "testimonials": {
+        "badge": "Reviews",
+        "title": "What our clients say",
+        "items": [
+          {
+            "name": "Olena Kovalenko",
+            "role": "Comfort Town RC",
+            "text": "The best cleaning I've ever ordered. No chemical smell, just freshness. They cleaned the oven so well it looks brand new. Very polite staff."
+          },
+          {
+            "name": "Maksym Tkachenko",
+            "role": "IT Entrepreneur",
+            "text": "It's convenient that everything can be resolved in Telegram. Arrived on time, worked quietly while I was on Zoom calls. Deep cleaning quality is top-notch."
+          },
+          {
+            "name": "Iryna Melnyk",
+            "role": "French Quarter RC",
+            "text": "I have two cats, so eco-products were essential. Sofa dry cleaning exceeded expectations - all stains and smells disappeared. Highly recommend!"
+          },
+          {
+            "name": "Andriy Boyko",
+            "role": "Showroom Owner",
+            "text": "We order regular cleaning for our showroom in Podil. Always perfectly clean showcases and floors. A reliable partner."
+          }
+        ]
+      },
+      "beforeAfter": {
+        "badge": "Result",
+        "title": "The difference you can see immediately",
+        "before": "Before",
+        "after": "After"
+      },
+      "gallery": {
+        "badge": "Portfolio",
+        "title": "Our Work",
+        "items": [
+          { "url": "https://picsum.photos/seed/clean-living/800/600", "alt": "Living room cleaning" },
+          { "url": "https://picsum.photos/seed/clean-kitchen/800/600", "alt": "Kitchen washing" },
+          { "url": "https://picsum.photos/seed/clean-bathroom/800/600", "alt": "Bathroom disinfection" },
+          { "url": "https://picsum.photos/seed/clean-window/800/600", "alt": "Window washing" },
+          { "url": "https://picsum.photos/seed/clean-sofa/800/600", "alt": "Sofa dry cleaning" },
+          { "url": "https://picsum.photos/seed/clean-office/800/600", "alt": "Office cleaning" }
+        ]
+      },
+      "video": {
+        "badge": "Process",
+        "title": "How we work",
+        "posterUrl": "https://picsum.photos/seed/cleaning-process/1200/600"
+      },
+      "team": {
+        "badge": "Team",
+        "title": "Professionals in their field",
+        "items": [
+          { "name": "Anna", "role": "Senior Cleaner", "imageUrl": "https://picsum.photos/seed/cleaner-anna/400/500" },
+          { "name": "Victoria", "role": "Dry Cleaning Specialist", "imageUrl": "https://picsum.photos/seed/cleaner-vika/400/500" },
+          { "name": "Dmytro", "role": "Quality Manager", "imageUrl": "https://picsum.photos/seed/manager-dmytro/400/500" }
+        ]
+      },
+      "process": {
+        "badge": "Steps",
+        "title": "How to order cleaning",
+        "items": [
+          { "step": "01", "title": "Request", "desc": "Leave a request on the website or write to us in Telegram. We will calculate the exact price." },
+          { "step": "02", "title": "Confirmation", "desc": "We agree on a convenient time and order details." },
+          { "step": "03", "title": "Cleaning", "desc": "The team arrives with all necessary equipment and cleans according to the checklist." },
+          { "step": "04", "title": "Acceptance", "desc": "You check the result. Payment is made only after your quality confirmation." }
+        ]
+      },
+      "ctaBanner": {
+        "title": "Ready for perfect cleanliness?",
+        "subtitle": "Book a cleaning today and get a 10% discount on your first order.",
+        "cta": "Book with discount"
+      },
+      "coverage": {
+        "badge": "Location",
+        "title": "Working all over Kyiv",
+        "subtitle": "Especially fast response (up to 60 min) in central districts and Podil.",
+        "districts": ["Podil", "Pechersk", "Obolon", "Holosiivo", "Darnytsia", "Dniprovskyi"]
+      },
+      "faq": {
+        "badge": "Questions",
+        "title": "Frequently Asked Questions",
+        "items": [
+          { "q": "Do I need to provide cleaning products or equipment?", "a": "No, our team arrives with everything needed: from professional Karcher vacuums to certified KIEHL eco-chemicals and microfibers." },
+          { "q": "Are your products safe for children and pets?", "a": "Absolutely. We use a hypoallergenic line of products that has no pungent smell and is completely safe for all household members." },
+          { "q": "How is the cost calculated?", "a": "The cost depends on the room area and cleaning type. You can use the calculator on the website. The price is fixed before work begins." },
+          { "q": "What does your insurance cover?", "a": "We have an insurance fund up to 50,000 UAH, which covers any accidental property damage during cleaning caused by our employee." },
+          { "q": "Can I leave the keys and go about my business?", "a": "Yes, many of our clients do just that. All our employees undergo a background check. We guarantee the safety of your belongings." },
+          { "q": "How long does deep cleaning take?", "a": "It depends on the area and degree of pollution. On average, a 50 m² apartment takes 4-6 hours of work for a team of 2 people." },
+          { "q": "How fast can you arrive?", "a": "In the central districts of Kyiv (especially Podil), we can be at the site within 60 minutes after request confirmation." },
+          { "q": "Do you wash windows in winter?", "a": "Outside window washing is carried out at temperatures not lower than -5°C. Inside, we wash in any weather." },
+          { "q": "How can I pay for services?", "a": "You can pay in cash, by card transfer, or by bank transfer (for legal entities) after accepting the work." },
+          { "q": "What is included in the 65-point checklist?", "a": "The checklist includes a detailed list of works for each zone: from dusting cornices to disinfecting bathroom drains. We provide it to you for verification." }
+        ]
+      },
+      "contact": {
+        "badge": "Contact",
+        "title": "Get in touch",
+        "nameLabel": "Your Name",
+        "phoneLabel": "Phone",
+        "messageLabel": "Comment (optional)",
+        "submit": "Send Request",
+        "success": "Thank you! We will contact you shortly.",
+        "address": "12 Sahaidachnoho St, Kyiv",
+        "phone": "+380 67 123 45 67",
+        "email": "ishop.inform@gmail.com",
+        "hours": "Mon-Sun: 08:00 - 20:00"
+      },
+      "footer": {
+        "description": "Premium cleaning in Kyiv. High standards of cleanliness, eco-friendliness, and safety of your home.",
+        "rights": "All rights reserved."
+      }
+    }
+  }
+}
